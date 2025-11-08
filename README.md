@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashu0130](https://github.com/ashu0130)
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+- 📝 My articles are Coming soon
 
 - 💬 Ask me about **Data cleaning, exploratory data analysis, and Excel automation**
 
